@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1014053559958",
+    "firebase_url": "https://watercoolertalk-fe81b.firebaseio.com",
+    "project_id": "watercoolertalk-fe81b",
+    "storage_bucket": "watercoolertalk-fe81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014053559958:android:666aab1be4433a5a",
+        "android_client_info": {
+          "package_name": "edu.css.thauck.watercoolertalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014053559958-s9hckqfe3jio4r3lj02rpa40mkib2qf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.css.thauck.watercoolertalk",
+            "certificate_hash": "469312d31284c55d062121c49ecce12efed0a5fe"
+          }
+        },
+        {
+          "client_id": "1014053559958-d2o5dd7aeoh1245ni6brmhf0tb23tald.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75bDkyN_iq6AeCz83VGMiEnXw-HTk2F8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014053559958-d2o5dd7aeoh1245ni6brmhf0tb23tald.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
